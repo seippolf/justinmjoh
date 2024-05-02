@@ -12,4 +12,9 @@ const config: GatsbyConfig = {
   plugins: ["gatsby-plugin-postcss"]
 };
 
+
+module.exports = {
+  pathPrefix: "/justinmjoh",
+}
+
 export default config;
