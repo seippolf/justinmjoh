@@ -19,22 +19,20 @@ export default function AboutPage() {
                 <img src={ photo } width="148" height="148" alt="Justin Johnson" className="mx-auto border border-cyan-600 rounded-xl"/>
                 <h2 className="text-xl font-bold underline">About Me</h2>
                 <p>
-                    I grew up in the suburbs adjacent to the tech centers of Bellevue and Redmond. Having a family
-                    history of taking interest in computers, it was natural that I too would as well. From a young
-                    age, probably elementary school I began taking apart computers or various electronics (with
-                    intermittent success putting them back together). After the impactful 2010 release of Tron: Legacy, it
+                    I grew up in the suburbs adjacent to the tech centers of Bellevue and Redmond. From a young
+                    age, probably elementary school I began taking apart computers and various electronics (with
+                    intermittent success putting them back together). After seeing Tron: Legacy, it
                     was pretty much set that computers would become my career path.
                 </p>
                 <p>
-                    Throughout much of middle school and highschool, programming, scripting and gaming constituted for much
+                    Throughout much of middle and high school, programming, scripting and gaming constituted for much
                     of my time. I remember my friends and I making many strange projects using breadboards and microcontrollers,
-                    when we weren't playing either Counter Strike or Halo. For the latter part of highschool I attended Summer
-                    and Fall workshops at DigiPen institute covering things like web development, cyber-security, AI and robotics,
-                    and even sound engineering. 
+                    when we weren't playing either Counter Strike or Halo. For the latter part of highs chool I attended workshops 
+                    at DigiPen institute that covered web development, cyber-security, AI and robotics, and even sound engineering. 
                 </p>
                 <p>
-                    After highschool, I attended Bellevue College where I learned perseverance, ultimately earning my Associates in Science
-                    amidst the height of the Coronavirus Pandemic. After graduation, I quickly moved to Tucson, Arizona to further my 
+                    After highschool, I attended Bellevue College where I learned perseverance, ultimately earning my Associate in Science
+                    degree amidst the height of the Coronavirus Pandemic. After graduation, I moved to Tucson, Arizona to further my 
                     education, now finishing my Bachelor in Computer Science degree. Outside of class, I do full stack development for the university's 
                     business affairs team. 
                 </p>
