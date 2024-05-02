@@ -1,5 +1,5 @@
 import React from "react"
-import Layout from "../components/layout/layout"
+import Layout from "../components/Layout/Layout"
 
 
 export function Head() {
@@ -21,7 +21,7 @@ export default function IndexPage() {
               <span className="animate-pulse">&#x2588;</span>
           </h2>
           <div className="w-full mt-8 mb-8 mx-auto border border-b-0 border-pink-600"></div>
-          <p className="px-4 text-lg font-bold">I'm Justin Johnson, a full stack web developer with specialty in Laravel, React, and NetSuite platforms.</p>
+          <p className="px-4 text-lg font-bold">I'm Justin Johnson, a full stack web developer with specialty in Next.js, React, and Laravel applications.</p>
         </article>
       </Layout>
     )

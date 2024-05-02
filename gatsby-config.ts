@@ -13,8 +13,8 @@ const config: GatsbyConfig = {
 };
 
 
-module.exports = {
-  pathPrefix: "/justinmjoh",
-}
+// module.exports = {
+//   pathPrefix: "/justinmjoh",
+// }
 
 export default config;

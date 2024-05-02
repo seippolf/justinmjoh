@@ -35,8 +35,8 @@ export default function AboutPage() {
                 <p>
                     After highschool, I attended Bellevue College where I learned perseverance, ultimately earning my Associates in Science
                     amidst the height of the Coronavirus Pandemic. After graduation, I quickly moved to Tucson, Arizona to further my 
-                    education, currently working on a Bachelors in Computer Science at the University of Arizona. When not in classes, 
-                    I serve as a web developer for the university's bookstore and student union.
+                    education, now finishing my Bachelor in Computer Science degree. Outside of class, I do full stack development for the university's 
+                    business affairs team. 
                 </p>
             </article>
         </Layout>
